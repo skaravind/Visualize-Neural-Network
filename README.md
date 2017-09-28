@@ -8,3 +8,5 @@ To edit the code, download processing.py and open the .pyde file.
 Neural Network: http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 Processing.Py: http://py.processing.org/reference/
+
+<img src="ss.png">

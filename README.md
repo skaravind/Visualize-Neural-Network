@@ -9,4 +9,4 @@ Neural Network: http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 Processing.Py: http://py.processing.org/reference/
 
-<img src="ss.png" width = "100" height = "100" align="middle">
+<img src="ss.png" width = "400" height = "400" align="middle">
